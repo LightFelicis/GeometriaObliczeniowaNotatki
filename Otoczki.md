@@ -17,6 +17,7 @@ Co najmniej nlogn -> można sprowadzić do sortowania
 | Algorytm Jarvisa (gift wrapping, marsz Jarvisa)  |  O(n^2), lub O(cn), gdzie c to liczba wierzchołków w otoczce | TAK |
 | Algorytm Jarvisa 3D | O(n^2) | TAK |
 | Dziel i rządź (podnoszenie mostów, Preparata i Hong) | O(n) łączenie mostów, całość O(nlogn) | NIE |
+| Dziel i rządź 3D | O(nlogn) | NIE |
 | Algorytm Kirkpatricka i Seidela | O(nlogc), gdzie c to maksymalny rozmiar zbioru z F | TAK |
 | Algorytm zamiatania | O(nlogn) sortowanie punktów, O(n) badanie stycznych i usuwanie | NIE |
 | Algorytm zamiatania 3D | O(n^2) | NIE |
